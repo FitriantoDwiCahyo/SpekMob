@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ProjectSkipsi</string>
+
+    <string name="namaapp">SpekMob</string>
+    <string name="dimensi">makanya kalau kamu mau menang dari aku harus bisa mendapatkan janji dari
+    dia yang kamu cintai dari siapa yang kamu lakukan ,dan lakukan lah apa yang kamu cari jati dirimu
+    sebagai opnendapatnadas tak kalah kamu cinta dia ,kalu dia menghilangkan cintnya kamu haru
+    makanya kalau kamu mau menang dari aku harus bisa mendapatkan janji dari
+    dia yang kamu cintai dari siapa yang kamu lakukan ,dan lakukan lah apa yang kamu cari jati dirimu
+    sebagai opnendapatnadas tak kalah kamu cinta dia ,kalu dia menghilangkan cintnya kamu haru</string>
+
+    <string-array name="Daftar_Merek">
+        <item>Honda</item>
+        <item>Nissan</item>
+        <item>Toyota</item>
+        <item>Daihatsu</item>
+        <item>BMW</item>
+        <item>Suzuki</item>
+        <item>Mercedes</item>
+        <item>Audi</item>
+        <item>Mazda</item>
+
+    </string-array>
+</resources>

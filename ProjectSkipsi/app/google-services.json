@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "447803115834",
+    "firebase_url": "https://projectskipsi.firebaseio.com",
+    "project_id": "projectskipsi",
+    "storage_bucket": "projectskipsi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447803115834:android:c47ec7e36e8d6e622ee803",
+        "android_client_info": {
+          "package_name": "com.example.projectskipsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447803115834-hhvu7mdan391381uruafvpdpra72nij3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectskipsi",
+            "certificate_hash": "6124b792228d8a7380290fe4ad7b163e2bc6df10"
+          }
+        },
+        {
+          "client_id": "447803115834-ijs5r21dgp5ea2rffvu6itlu1777oekr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVuym49TfdR0O3CyNipEBb1DUwaDRDVew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447803115834-p7sqb7jif8jl1pg0i1gf7fm6qgmlpi0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
